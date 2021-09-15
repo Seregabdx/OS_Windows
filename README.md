@@ -1,2 +1,2 @@
 # OS_Windows
-C++
+Working with the operating system in win32 api c++
