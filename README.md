@@ -1,5 +1,5 @@
 # OS_Windows
-<p>Working with the operating system in win32 api c++</p>
+<h3>Working with the operating system in win32 api c++</h3>
 
 <p>Lab 1. Implementing asynchronous file input and output.</p>
 <p>Lab 2. Server-side implementation for a named pipe.</p>
